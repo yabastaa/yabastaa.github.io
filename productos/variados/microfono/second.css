@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+  
+}
+#divpapa{ 
+     align-items: start;
+     display: flex;
+}
+#div3{
+    align-items: flex-end;
+}
+img{
+width: 110px;
+}
+
+h1{
+    font-size:65px;
+}
+h2{
+    background-color: rgb(175, 138, 90);
+    color: beige;
+}
+h4{
+    font-size: 40px;
+}
+p{
+    font-size:20px;
+    border: 5px rgb(175, 138, 90)solid;
+}
